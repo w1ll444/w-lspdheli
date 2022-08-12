@@ -5,6 +5,8 @@
 <h1>INSTALLATION GUIDE</h1>
 
 1. Drop the w-lspdheli folder into your [standalone] folder (or whichever other ensured folder you want to use)
+2. make a client and server folder, drag "main" into client, and "main-s" into server
+3. rename "main-s" to "main"
 
 <h1>FEATURES</h1>
 
