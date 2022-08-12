@@ -1,6 +1,6 @@
 # W-LSPDHeli
 
-# W-LSPDHeli is a script for FiveM QBCore allowing you to configure bicycle rental locations around your city for citizens to utilize.
+# W-LSPDHeli is a simple script to enable Police officers to spawn helicopters at MRPD and easily configurable to other locations!
 
 <h1>INSTALLATION GUIDE</h1>
 
